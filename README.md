@@ -8,12 +8,16 @@ My work bridges data engineering, model integration, and AI-driven insights — 
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/karthik_ms_28) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-sarma-9859b9291/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karthikmsarma@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://karthik-portfolio-vbxa.vercel.app)
+
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/karthik_ms_28) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-sarma-9859b9291/) 
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthikmsarma@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://karthik-portfolio-vbxa.vercel.app)
+
+---
 
 📝 [**View my resume**](https://drive.google.com/file/d/1BPFSP9OhTr8IksLwrpBDrz3kUFjKXKad/view?usp=sharing)
+
 
 
 # 💻 Tech Stack:
